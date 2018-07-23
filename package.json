@@ -44,7 +44,7 @@
     "babel-types": "^6.25.0",
     "babylon": "^6.17.4",
     "commander": "^2.12.1",
-    "deepmerge": "^1.5.1",
+    "deepmerge": "^2.1.1",
     "global": "^4.3.2",
     "npm-name-cli": "^1.2.0",
     "remove": "^0.1.5",
