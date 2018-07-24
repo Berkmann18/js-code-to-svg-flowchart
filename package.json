@@ -34,7 +34,7 @@
     "commonjs"
   ],
   "dependencies": {
-    "babel-core": "6.24.1",
+    "babel-core": "6.26.3",
     "babel-generator": "^6.26.1",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-transform-es2015-destructuring": "^6.23.0",
@@ -46,7 +46,7 @@
     "commander": "^2.16.0",
     "deepmerge": "^2.1.1",
     "global": "^4.3.2",
-    "npm-name-cli": "^1.2.0",
+    "npm-name-cli": "^2.1.0",
     "remove": "^0.1.5",
     "string-width": "^2.1.1",
     "xml-escape": "^1.1.0"
