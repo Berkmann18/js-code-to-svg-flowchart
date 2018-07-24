@@ -34,7 +34,7 @@
     "commonjs"
   ],
   "dependencies": {
-    "babel-core": "6.24.1",
+    "babel-core": "6.26.3",
     "babel-generator": "^6.26.1",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-transform-es2015-destructuring": "^6.23.0",
