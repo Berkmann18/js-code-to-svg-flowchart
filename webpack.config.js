@@ -5,7 +5,7 @@ const path = require('path');
 
 let libraryName = 'js2flowchart';
 
-let plugins = [], outputFile;
+let outputFile;
 
 outputFile = libraryName + '.js';
 
@@ -17,7 +17,8 @@ const config = {
     filename: outputFile,
     library: libraryName,
     libraryTarget: 'umd',
-    umdNamedDefine: true
+    umdNamedDefine: true,
+    globalObject: "(typeof window !== 'undefined' ? window : this)"
   },
   module: {
     rules: [
@@ -36,7 +37,7 @@ const config = {
     ],
     extensions: ['.json', '.js']
   },
-  plugins: plugins
+  mode: 'development'
 };
 
 module.exports = config;
