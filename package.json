@@ -40,7 +40,7 @@
     "@babel/parser": "^7.5.5",
     "@babel/traverse": "^7.5.5",
     "commander": "^2.12.1",
-    "deepmerge": "^1.5.1",
+    "deepmerge": "^4.0.0",
     "global": "^4.3.2",
     "npm-name-cli": "^1.2.0",
     "remove": "^0.1.5",
