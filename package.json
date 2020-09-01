@@ -40,7 +40,7 @@
     "@babel/generator": "^7.5.5",
     "@babel/parser": "^7.5.5",
     "@babel/traverse": "^7.5.5",
-    "commander": "^2.12.1",
+    "commander": "^6.1.0",
     "deepmerge": "^1.5.1",
     "global": "^4.3.2",
     "string-width": "^2.1.1",
