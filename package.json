@@ -24,7 +24,7 @@
     "babel-loader": "^8.0.0",
     "prettier": "1.9.2",
     "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^4.6.0"
   },
   "keywords": [
     "svg",
